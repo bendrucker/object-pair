@@ -1,7 +1,7 @@
 {
   "name": "object-pair",
   "main": "index.js",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Create an object from a key/value pair",
   "license": "MIT",
   "repository": "bendrucker/object-pair",
