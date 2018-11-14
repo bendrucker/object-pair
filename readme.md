@@ -1,4 +1,4 @@
-# object-pair [![Build Status](https://travis-ci.org/bendrucker/object-pair.svg?branch=master)](https://travis-ci.org/bendrucker/object-pair)
+# object-pair [![Build Status](https://travis-ci.org/bendrucker/object-pair.svg?branch=master)](https://travis-ci.org/bendrucker/object-pair) [![Greenkeeper badge](https://badges.greenkeeper.io/bendrucker/object-pair.svg)](https://greenkeeper.io/)
 
 > Create an object from a key/value pair
 
